@@ -1,0 +1,66 @@
+#need{
+    background-color: #f4623a;
+    padding: 100px 0;
+   
+  
+}
+
+
+.need-intro h1{
+    color: white;
+    text-align: center;
+    
+}
+
+.need-intro::after{
+    content: "";
+   width: 8px;
+   height: 8px;
+   background-color: white;
+   
+   
+    
+}
+
+.need-intro p{ 
+    color: rgba(255,255,255,.5);
+    text-align: center;
+    margin: 35px;
+   
+}
+
+
+.need-intro a{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 16px;
+    padding: 10px;
+   
+}
+
+
+#service  h1{
+    margin: 50px;
+    position: relative;
+
+}
+#service h1::after {
+    content: "";
+    width: 50px;
+    height: 3px;
+    background-color: orange;
+    position: absolute;
+
+}
+
+.service-intro i{
+  color: #f4623a!important;
+
+}
+.service-intro h4{
+
+}
+.service-intro p{
+
+}
